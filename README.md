@@ -1,2 +1,2 @@
 # DeepLearning
-This repository contains code for the homeworks of the Deep Learning course.
+This repository contains code for the homeworks of the Deep Learning and Neural Networks course.
